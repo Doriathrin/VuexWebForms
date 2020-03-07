@@ -1,4 +1,4 @@
-# 12y18r-vue
+# Vuex制作简单的信息表
 
 > A Vue.js project
 

@@ -10,15 +10,8 @@
         <td><button @click='shan(key)'>删除</button></td>
       </tr>
     </table>
-    <table>
-      <tr>
-        <td>
-          <p v-show="this.$store.state.list.length==0?'show':''">暂无记录。。。</p>
-          <button v-show="this.$store.state.list.length>0?'!show':''" @click='quan()'>全部删除</button>
-        </td>
-      </tr>
-    </table>
-
+    <p v-show="this.$store.state.list.length==0?'show':''">暂无记录。。。</p>
+    <button v-show="this.$store.state.list.length>0?'!show':''" @click='quan()'>全部删除</button>
   </div>
 </template>
 
