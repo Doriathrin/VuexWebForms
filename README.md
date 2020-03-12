@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vuex制作简单的信息表
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# VuexWebForms
+用vuex作的简易的表单
+>>>>>>> 5bb9541a5c0bd605569c372fb9dcc9be4679f45c
